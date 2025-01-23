@@ -1,4 +1,6 @@
 AppBar
+Login
+registre
 Body
 Secció1
 Flutter
