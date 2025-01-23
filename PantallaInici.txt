@@ -2,5 +2,6 @@ AppBar
 Login
 registre
 Body
+pelis
 Secció1
 Flutter
