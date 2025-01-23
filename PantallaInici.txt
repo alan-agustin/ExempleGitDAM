@@ -3,5 +3,6 @@ Login
 registre
 Body
 pelis
+series
 Secció1
 Flutter
